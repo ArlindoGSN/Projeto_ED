@@ -1,7 +1,3 @@
-Aqui está um modelo de relatório que pode ser utilizado para apresentar o sistema de gerenciamento hospitalar que você desenvolveu:
-
----
-
 # **Relatório do Sistema de Gerenciamento Hospitalar**
 
 ## 1. **Introdução**
@@ -90,7 +86,3 @@ A busca pelo paciente Lucas (ID 105) na árvore de internação foi realizada co
 ## 7. **Conclusão**
 
 O sistema de gerenciamento hospitalar desenvolvido demonstrou ser eficiente para o gerenciamento de pacientes, utilizando diferentes estruturas de dados de maneira apropriada para cada cenário. A implementação de algoritmos de busca e ordenação contribuiu para otimizar o acesso e a organização dos prontuários. A modularidade do sistema também facilita futuras expansões, como o controle de mais informações sobre pacientes, relatórios detalhados ou melhorias na interface com o usuário.
-
----
-
-Este é um modelo básico que você pode adaptar e detalhar conforme necessário, incluindo mais informações sobre testes, resultados e possíveis melhorias.
